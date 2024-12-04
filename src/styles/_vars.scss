@@ -1,0 +1,15 @@
+$colorSelectSite: #F16D7F;
+$widthSite: 1140px;
+$backBlock:rgb(34, 34, 36);
+$colorText: rgb(34, 34, 34 );
+$gapGrid: 30px;
+$thirdSite: ($widthSite - $gapGrid * 2) / 3;
+$halfSite: 1600px / 2;
+
+$widthSiteTablet: 736px;
+$halfSiteTablet: 768px / 2;
+$gapGridTablet: 16px;
+$secondSiteTablet: ($widthSiteTablet - $gapGridTablet * 2) / 2;
+
+$widthSitePhone: 360px;
+
